@@ -60,7 +60,7 @@ main {
 }
 
 .login-wrapper input {
-    min-width: 200px;
+    width: 220px;
     padding: 12px 20px;
     margin: 10px 0;
     display: block;
@@ -93,15 +93,17 @@ main {
     background-color: #37003c;
 }
 
-.login-wrapper .submit-btn {
+.login-wrapper .submit-btn,
+.current-gameweek-submit-wrapper .submit-btn {
     color: white;
     background-color: #ff2882;
     padding: 15px 25px;
     border: none;
     box-shadow: 0 3px 10px rgb(0 0 0 / 20%);
     font-size: 1rem;
-    min-width: 200px;
+    width: 220px;
     cursor: pointer;
+    justify-self: center;
 }
 
 .loading-wrapper {
@@ -197,16 +199,6 @@ main {
     margin-top: 25px;
 }
 
-.current-gameweek-submit-wrapper button {
-    color: white;
-    background-color: #ff2882;
-    padding: 15px 25px;
-    border: none;
-    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
-    font-size: 1rem;
-    min-width: 200px;
-    cursor: pointer;
-}
 
 footer {
     color: white;

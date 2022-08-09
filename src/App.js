@@ -23,7 +23,6 @@ function App() {
       <main>
         {path == '' && <Home />}
         {path == '/about' && <About />}
-        {path == '/login' && <Login />}
       </main>
       <Footer />
 
