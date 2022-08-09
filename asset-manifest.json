@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gameweek/static/css/main.9443e701.css",
+    "main.js": "/gameweek/static/js/main.aa12f9a7.js",
+    "static/js/787.e475f42e.chunk.js": "/gameweek/static/js/787.e475f42e.chunk.js",
+    "index.html": "/gameweek/index.html",
+    "main.9443e701.css.map": "/gameweek/static/css/main.9443e701.css.map",
+    "main.aa12f9a7.js.map": "/gameweek/static/js/main.aa12f9a7.js.map",
+    "787.e475f42e.chunk.js.map": "/gameweek/static/js/787.e475f42e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9443e701.css",
+    "static/js/main.aa12f9a7.js"
+  ]
+}
